@@ -4,7 +4,7 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Idongesit | 💻 Software Engineer | 🛸 Abuja, Nigeria <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nickssilver&label=Profile%20views&color=0e75b6&style=flat" alt="nickssilver" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=idyweb&label=Profile%20views&color=0e75b6&style=flat" alt="idyweb" /> </p>
 
 <p align="left"> <a href="https://x.com/idongesitasaka" target="blank"><img src="https://img.shields.io/twitter/follow/idongesitasaka?logo=twitter&style=for-the-badge" alt="idongesitasaka" /></a> </p>
 
@@ -12,10 +12,10 @@
 
 <h3 align="left">Talking about Personal Stuff:</h3>
 
-- 🌱 I’m currently developing magic with Python
+- 🌱 I’m currently creating the future with Python.
 
-- 💬 Ask me about anything tech related, I am happy to help;
-- 💻 I love writing code and learn anythings about it
+- 💬 Ask me about anything tech related, I am happy to help.
+- 💻 I love writing code and learn anything about it
 
 - 📫 How to reach me **inyangidongesit22@gmail.com**
 

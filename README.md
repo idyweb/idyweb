@@ -1,7 +1,7 @@
 ### Hi there,👋
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Idongesit | 💻 Software Engineer | 🛸 Abuja, Nigeria <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Idongesit | 💻 Software Engineer | 🛸 Lagos, Nigeria <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idyweb&label=Profile%20views&color=0e75b6&style=flat" alt="idyweb" /> </p>
